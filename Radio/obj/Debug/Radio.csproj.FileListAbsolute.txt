@@ -1,0 +1,15 @@
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\bin\Debug\Radio.exe.config
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\bin\Debug\Radio.exe
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\bin\Debug\Radio.pdb
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\MainWindow.g.cs
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\App.g.cs
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio_MarkupCompile.cache
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio_MarkupCompile.lref
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\MainWindow.baml
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.g.resources
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.Cache
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.exe
+D:\Разработка\Learning_c#\4_Radio\Radio\Radio\obj\Debug\Radio.pdb
